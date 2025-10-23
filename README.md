@@ -34,6 +34,10 @@ This Dataset was gotten from Kaggle.
 
 ## Dashboard 
 
+<img width="910" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/fbfa305f-7e77-42c2-8aa9-b0cf1056d7fe" />
+
+
+
 
 
 
