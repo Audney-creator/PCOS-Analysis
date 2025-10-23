@@ -2,6 +2,19 @@
 This was one of my favorite Excel projects so far!
 I analyzed data on Polycystic Ovary Syndrome(PCOS) — a hormonal disorder common among women — to uncover trends and insights related to age, BMI, hormone levels, and menstrual irregularities.
 
+# OUTLINES
+- [Project Overview](#project-overview)
+- [Tools & Techniques Used](#tools--techniques-used)
+- [Project Objectives](#project-objectives)
+- [Data](#data)
+  1. [Dataset Description](#dataset-description)
+  2. [Data Source](#data-source)
+- [Dashboard](#dashboard)
+- [Key Insights](#key-insights)
+
+
+
+
 ## Project Overview
 This project analyzes data related to Polycystic Ovary Syndrome (PCOS) using Microsoft Excel.
 The goal was to uncover patterns and relationships between factors such as age, BMI, hormonal levels, and menstrual irregularities — all visualized in a clear, easy-to-read Excel dashboard.
